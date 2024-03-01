@@ -7,4 +7,4 @@ R/ La estrategía que más reduce el tiempo promedio de la corrida de los proces
 tener un intervalo de 5, que realice 6 instrucciones, con una capacidad de memoria de
 RAM de 100 y un CPU. Yo seguiría esta estrategia ya que observando las gráficas y los
 resultados que se obtuvieron fueron los más pequeños en comparación con las otras
-estrategias
+estrategias 
